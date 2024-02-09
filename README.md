@@ -1,7 +1,7 @@
 # data-fun-eda
 
 ### Dataset Description
-This EDA will analyze the "Dow Jones" dataset from the Seaborn library. It contains the price of the Dow Jones from 1914-12-01 to 1968-12-01. The dataset can be accessed via Github: https://github.com/mwaskom/seaborn-data/blob/master/dowjones.csv 
+This Python Exploratory Data Analysis project will analyze the "Dow Jones" dataset from the Seaborn library. It contains the price of the Dow Jones from 1914-12-01 to 1968-12-01. The dataset can be accessed via Github: https://github.com/mwaskom/seaborn-data/blob/master/dowjones.csv 
 
 ### Environment Setup and How to Install and Run the Project
 
