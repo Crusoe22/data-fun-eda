@@ -3,7 +3,7 @@
 ### Environment Setup and How to Install and Run the Project
 
 1. Create and clone repository to VSCode
-- Create a new GitHub repository named `datafun-06-eda`.
+- Create a new GitHub repository named datafun-06-eda.
 - Clone the repository to your local machine.
 
 2. Create and Activate Virtual Environment
