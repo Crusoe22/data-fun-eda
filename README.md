@@ -89,4 +89,4 @@ Various exploratory data analysis techniques are employed to explore different a
 
 ## Conclusion
 
-The examination indicatee that over time, the Dow Jones Industrial Average (DJIA) has displayed a consistent upward trajectory, notwithstanding intermittent bouts of instability. Individuals with a focus on long-range investment objectives might deem the DJIA viable.
+The examination indicated that over time, the Dow Jones Industrial Average (DJIA) has displayed a consistent upward trajectory, notwithstanding intermittent bouts of instability. Individuals with a focus on long-range investment objectives might deem the DJIA viable.
